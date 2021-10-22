@@ -5,7 +5,8 @@ assignement: https://github.com/rlapar/iso-assignment/tree/master
 ## Overview
 
 Application for country search based on iso code. Python 3.10 and Pycharm IDE were used for the project.
-The main.py file contains the application. Ten tests were created in the unti_test.py file to verify the function of the application.
+The main.py file contains the application. The requests.py file sends several requests and prints the application responses to demonstrate the app. 
+Ten tests were created in the unti_test.py file to verify the function of the application.
 File requirements2.txt contains the required packages.
 
 ## Dependencies
